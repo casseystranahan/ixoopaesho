@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aegheixoh.dogtaggames.com/sitemap.xml
